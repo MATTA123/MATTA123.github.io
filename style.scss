@@ -19,6 +19,9 @@ html {
 
 body {
 	background: url("http://www.thefeministwire.com/wp-content/uploads/2014/12/Autumn-with-winter.jpg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
